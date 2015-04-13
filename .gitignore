@@ -1,0 +1,6 @@
+nimcache/
+*.so
+*.dll
+*.exe
+*.o
+
